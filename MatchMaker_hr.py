@@ -1,6 +1,3 @@
-# Hannah Rausch
-# Matchmaker Version 1
-
 INTRODUCTION = '''
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 The purpose of this application is to see how 
